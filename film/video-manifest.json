@@ -1,0 +1,26 @@
+{
+  "title": "Funk Rock Basslines",
+  "study": "z6301",
+  "bpm": 108,
+  "source_audio": "preview/funk-rock-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "2af949e150380efffef9dd9bdfe161990eade65d5a91daf2efd755c463ea707d",
+  "source_midi": "midi/z6301-funk-rock-basslines-opening/z6301-funk-rock-basslines-opening-combined.mid",
+  "source_midi_sha256": "0ee860199aba8eb8af442858e48305b624b3314543e67354a5c1d8cf0eede68b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6c3c174d26902407f4b5c2bd51cefbda6e2659c9badbd28874ce7adcf9d0e805",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "05e94d625458f51fbc500889a5dee67018c1187869053188948fcc2836902da2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "bcaecfdff6dd14c831576cfb2e553f37701ab02d5a75c226e15aaaf0658a8a22",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

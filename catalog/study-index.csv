@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z6301,Funk Rock Basslines Opening,pack-local equal-tempered pitch collection,G,108,4/4,480,32,61440,midi/z6301-funk-rock-basslines-opening/z6301-funk-rock-basslines-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6302,Funk Rock Basslines Variation,pack-local equal-tempered pitch collection,A#,108,4/4,480,32,61440,midi/z6302-funk-rock-basslines-variation/z6302-funk-rock-basslines-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6303,Funk Rock Basslines Contrast,pack-local equal-tempered pitch collection,C#,108,4/4,480,32,61440,midi/z6303-funk-rock-basslines-contrast/z6303-funk-rock-basslines-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6304,Funk Rock Basslines Return,pack-local equal-tempered pitch collection,G#,108,4/4,480,32,61440,midi/z6304-funk-rock-basslines-return/z6304-funk-rock-basslines-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
