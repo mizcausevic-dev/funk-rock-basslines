@@ -15,7 +15,7 @@ This is a bounded symbolic-composition release, not a sample pack, recording, or
 | z6303 Funk Rock Basslines Contrast | C# pack-local pitch collection | 32 bars · 108 BPM · 4/4 |
 | z6304 Funk Rock Basslines Return | G# pack-local pitch collection | 32 bars · 108 BPM · 4/4 |
 
-The release contains 28 MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
+The release contains 28 study MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
 
 ## Start here
 
